@@ -31,7 +31,7 @@ a {
 
 /* Header */
 .main-header {
-  background: white;
+  background:#a9af94;
   padding: 10px 0;
   border-bottom: 1px solid #ddd;
 }
@@ -59,7 +59,7 @@ a {
 }
 
 .nav-links a:hover {
-  color: #a9af94;
+  color: #fffffe;
 }
 
 /* Hero Section */
